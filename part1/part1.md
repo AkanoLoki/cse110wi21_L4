@@ -32,4 +32,9 @@
 16. == auto converts the type of input to match, while === does not.
 17. prints 'How are you?' to console, as 2==true returns false and 2 is converted to true.
 18. see[part1-question18.js](part1-question18.js)
-19. 
+19. it returns a new array[6,8,10]. for each item in the input array, we have it as (num + 2 ) * 2 as aggregate.
+20. see[part1-question20.js](part1-question20.js)
+21. 1
+    4
+    3
+    2
